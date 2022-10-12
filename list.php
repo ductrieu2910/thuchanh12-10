@@ -17,7 +17,7 @@
     </head>
     <body>
         <div id="content">
-            <?php require('../connect/data.php'); ?>
+            <?php require('data.php'); ?>
         </div>
         <a href="#" class="button" id="load_more">LOAD MORE</a>
     </body>
